@@ -1,1 +1,5 @@
-Setting up Mobile Project
+# Setting up Mobile Project
+
+
+## reset-project
+- Resets the Project
